@@ -119,9 +119,10 @@ SPIRITS 3.99€
 DRINKS 2.99€
 EXTRAS 1.99€
 WITH 0.99€
-Evening (6:30pm-11pm):
 
-## Delivery Prices:
+## Evening (6:30pm-11pm):
+
+### Delivery Prices:
 
 SEAFOOD 12.99€
 SIZZLING 11.99€
@@ -136,7 +137,7 @@ INDIAN SIDES 4.99€
 DRINKS 0.99€
 EXTRAS 0.99€
 
-## Dine-In (Prices Increased):
+### Dine-In (Prices Increased):
 
 SUSHI 14.49€
 SEAFOOD 13.49€
