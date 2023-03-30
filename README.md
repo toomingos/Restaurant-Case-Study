@@ -15,7 +15,7 @@ Drinks and other beverages product list was kept the same.
 
 ### Chinese:
 
-Pick a Starter
+### Pick a Starter
 
 - 'SWEET SOUR CHICKEN', 
 - 'LEMON CHICKEN',
@@ -29,21 +29,21 @@ Pick a Starter
 - 'CHICKEN BBS',
 - 'SWEET SOUR PORK'
 
-Pick a Side
+### Pick a Side
 
 - 'STEAMED RICE',
 - 'SPECIAL MONTPARNASSE RICE',
 - 'NOODLES WITH MEAT',
 - 'EGG FRIED RICE'
 
-Pick a Appetizer
+### Pick a Appetizer
 
 - 'STEAMED RICE',
 - 'SPECIAL MONTPARNASSE RICE',
 - 'NOODLES WITH MEAT',
 - 'EGG FRIED RICE'
 
-Sushi:
+## Sushi:
 
 - 'CALIFORNIA MAKI',
 - 'TEMPURA MAKI',
@@ -51,9 +51,9 @@ Sushi:
 - 'DRAGON MAKI',
 - 'BUFFET SUSHI'
 
-### Indian:
+## Indian:
 
-Pick a Starter
+### Pick a Starter
 
 - 'CHICK TIKKA MASALA',
 - 'MALAI MANGO CHICK',
@@ -64,13 +64,13 @@ Pick a Starter
 - 'CHICK KORMA KASHMIRI',
 - 'INDIAN BUFFET'
 
-Pick a Side
+### Pick a Side
 
 - 'POPPDUMS',
 - 'MINT RAITA',
 - 'ASSORTED PICKLES'
 
-Pick a Appetizer
+### Pick a Appetizer
 
 - 'TANDOORI TRILOGY',
 - 'ONION BADJI',
